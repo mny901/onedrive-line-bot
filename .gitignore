@@ -1,0 +1,11 @@
+# 秘匿情報（絶対にコミットしない）
+.env
+*.pem
+token_cache.bin
+LINEアクセストークン*
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
